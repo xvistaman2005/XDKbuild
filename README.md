@@ -37,7 +37,7 @@ JustAnyone, Pro-Moddz (Jimmy Brown), Jenkins - beta testing
 
 4) Select 17489 dashboard
 
-5) Select Glitch2m or DEVGL, and XDKbuild
+5) Select Glitch2m, which will auto-select XDKbuild
 
 6) Click Create XeBuild Image
 
